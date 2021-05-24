@@ -1,6 +1,6 @@
 # vm
 
-> A multiple pages Vue.js project skeleton by the history mode
+> A multiple pages Vue.js project skeleton by history mode
 
 ## Build Setup
 

@@ -1,7 +1,7 @@
 {
   "name": "vm",
   "version": "1.0.0",
-  "description": "A multiple pages Vue.js project skeleton by the history mode",
+  "description": "A multiple pages Vue.js project skeleton by history mode",
   "author": "raecoo <raecoo@gmail.com>",
   "private": true,
   "scripts": {
