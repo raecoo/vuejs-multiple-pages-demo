@@ -2,6 +2,46 @@
 
 > A multiple pages Vue.js project skeleton by history mode
 
+## Structure
+
+```bash
+├── README.md
+├── build
+│   ├── build.js
+│   ├── check-versions.js
+│   ├── logo.png
+│   ├── utils.js
+│   ├── vue-loader.conf.js
+│   ├── webpack.base.conf.js
+│   ├── webpack.dev.conf.js
+│   └── webpack.prod.conf.js
+├── config
+│   ├── dev.env.js
+│   ├── index.js
+│   ├── prod.env.js
+│   └── test.env.js
+├── deploy.sh
+├── env.config
+├── package-lock.json
+├── package.json
+├── requirements.txt
+├── run.py
+├── server
+│   ├── api
+│   ├── config.py
+│   ├── entrance.py
+│   └── website
+├── serverless.yml
+├── src
+│   ├── components
+│   ├── modules
+│   └── pages
+├── static
+└── test
+    ├── e2e
+    └── unit
+```
+
 ## Build Setup
 
 ```bash
