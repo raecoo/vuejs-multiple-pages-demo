@@ -27,4 +27,11 @@ npm run e2e
 npm test
 ```
 
+## Deploy
+
+```bash
+sls plugin install -n serverless-python-requirements
+sls plugin install -n serverless-wsgi
+```
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

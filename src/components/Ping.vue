@@ -1,6 +1,9 @@
 <template>
   <div class="ping">
     <h1>{{ msg }}</h1>
+    <router-link :to="{ name: 'Pong' }">
+      link to pong page
+    </router-link>
   </div>
 </template>
 
@@ -31,5 +34,6 @@ li {
 }
 a {
   color: #42b983;
+  text-decoration: none;
 }
 </style>

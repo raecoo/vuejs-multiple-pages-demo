@@ -33,7 +33,7 @@ exports.htmlPlugin = function() {
       filePath.lastIndexOf('/') + 1,
       filePath.lastIndexOf('.')
     )
-    const conf = {
+    let conf = {
       template: filePath,
       filename: filename + '.html',
       chunks: [filename],
